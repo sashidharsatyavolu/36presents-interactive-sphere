@@ -50,11 +50,11 @@ canvas{display:block;width:100%;height:100%;}
   filter:drop-shadow(0 0 14px rgba(80,190,255,.22));
 }
 #brand img{
-  width:116px;
-  height:116px;
+  width:150px;
+  height:150px;
   object-fit:contain;
   display:block;
-  margin:0 auto -8px;
+  margin:0 auto -10px;
 }
 #brand .smarter{
   margin-top:0;
